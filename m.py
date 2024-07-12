@@ -324,7 +324,7 @@ def welcome_plan(message):
     response = f'''{user_name}, 𝐏𝐋𝐀𝐍 𝐃𝐄𝐊𝐇𝐄𝐆𝐀 𝐓𝐔 𝐆𝐀𝐑𝐄𝐄𝐁😂:
 
 VIP 🌟:
--> Attack time: 180 seconds
+-> Attack time: 700 seconds
 -> After attack limit: 5 minutes
 -> Concurrent attacks: 3
 
